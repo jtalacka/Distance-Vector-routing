@@ -1,0 +1,14 @@
+C:\Users\juliu\source\repos\vector distance routing\vector distance routing\bin\Debug\vector distance routing.exe.config
+C:\Users\juliu\source\repos\vector distance routing\vector distance routing\bin\Debug\vector distance routing.exe
+C:\Users\juliu\source\repos\vector distance routing\vector distance routing\bin\Debug\vector distance routing.pdb
+C:\Users\juliu\source\repos\vector distance routing\vector distance routing\obj\Debug\vector distance routing.csprojAssemblyReference.cache
+C:\Users\juliu\source\repos\vector distance routing\vector distance routing\obj\Debug\vector distance routing.csproj.CoreCompileInputs.cache
+C:\Users\juliu\source\repos\vector distance routing\vector distance routing\obj\Debug\vector distance routing.exe
+C:\Users\juliu\source\repos\vector distance routing\vector distance routing\obj\Debug\vector distance routing.pdb
+C:\Users\juliu\Desktop\vector distance routing\vector distance routing\vector distance routing\bin\Debug\vector distance routing.exe.config
+C:\Users\juliu\Desktop\vector distance routing\vector distance routing\vector distance routing\bin\Debug\vector distance routing.exe
+C:\Users\juliu\Desktop\vector distance routing\vector distance routing\vector distance routing\bin\Debug\vector distance routing.pdb
+C:\Users\juliu\Desktop\vector distance routing\vector distance routing\vector distance routing\obj\Debug\vector distance routing.csprojAssemblyReference.cache
+C:\Users\juliu\Desktop\vector distance routing\vector distance routing\vector distance routing\obj\Debug\vector distance routing.csproj.CoreCompileInputs.cache
+C:\Users\juliu\Desktop\vector distance routing\vector distance routing\vector distance routing\obj\Debug\vector distance routing.exe
+C:\Users\juliu\Desktop\vector distance routing\vector distance routing\vector distance routing\obj\Debug\vector distance routing.pdb
